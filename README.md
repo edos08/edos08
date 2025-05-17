@@ -5,7 +5,7 @@
 <br>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science at the University of Bologna (Italy).\
+🎓 &nbsp;I graduated with an MSc in Control Systems Engineering from the University of Padua (Italy).\
 ✍️ &nbsp;In my free time, I start new projects that I almost never finish.\
 ✉️ &nbsp;You can shoot me an email at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf) for more details about me. I'm open to feedback and suggestions!
