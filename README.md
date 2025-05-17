@@ -8,7 +8,7 @@
 🎓 &nbsp;I'm currently studying Computer Science at the University of Bologna (Italy).\
 ✍️ &nbsp;In my free time, I start new projects that I almost never finish.\
 ✉️ &nbsp;You can shoot me an email at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@gmail.com)! I'll try to respond as soon as I can.
-<!-- 📄 &nbsp;Please have a look at my [Résumé](https://github.com/ale-ben/ale-ben/blob/914409bfefe679ff1353f275382643a1fede75fd/media/2023-05-17_CV_English_GH.pdf) for more details about me. I'm open to feedback and suggestions! -->
+📄 &nbsp;Please have a look at my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf) for more details about me. I'm open to feedback and suggestions!
   
   
 ## 📊 <b> Some Stats </b>
