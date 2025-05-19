@@ -4,9 +4,10 @@
 ## 👨🏻‍💻 <b> About Me </b>
 <br>
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I graduated with an MSc in Control Systems Engineering from the University of Padua (Italy).\
-✍️ &nbsp;In my free time, I start new projects that I almost never finish.\
+💡 &nbsp;I’m passionate about applying intelligent algorithms to real-world problems—especially where control, robotics, and software meet.
+🎓 &nbsp;M.Sc. student in Control Systems Engineering at the University of Padua, with a focus on Deep and Reinforcement Learning for dynamic systems.
+⚙️ &nbsp;I enjoy building things—code, devices, or infrastructure. From web systems and IoT to 3D printing, I’m always exploring new tools and tech.
+🧠 &nbsp;Often found starting ambitious side projects that blend AI, engineering, and some good old curiosity (even if not all make it to the finish line).
 ✉️ &nbsp;You can shoot me an email at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@gmail.com)! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf) for more details about me. I'm open to feedback and suggestions!
   
