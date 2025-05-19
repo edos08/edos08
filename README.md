@@ -46,7 +46,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edos08&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edos08&theme=radical&row=1&column=7&margin-h=15&margin-w=5" width="95%" />
 </div>
 
 <!--h2 without bottom border-->
