@@ -43,26 +43,18 @@
   </ul>
 </div>
 
-<!-- Stats and Top Languages in Two Columns -->
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-  <!-- Left Column: Stats -->
-  <div style="flex: 1; min-width: 300px; max-width: 500px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=edos08&theme=dark&show_icons=true&count_private=true" width="100%" /><br><br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=edos08&theme=dark&hide_border=false" width="100%" />
-  </div>
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=edos08&theme=dark&show_icons=true&count_private=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edos08&theme=dark&hide_border=false" width="45%" />
+</p>
 
-  <!-- Right Column: Top Languages -->
-  <div style="flex: 1; min-width: 300px; max-width: 400px;">
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=edos08&theme=dark&layout=compact&hide_border=true&langs_count=8" 
-      width="100%" 
-      style="min-height: 450px; object-fit: contain;" 
-    />
-  </div>
-</div>
-<br>
+<!-- Top Languages -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edos08&theme=dark&layout=compact&hide_border=true&langs_count=8" width="60%" />
+</p>
 
-<!-- Trophies Full Width -->
+<!-- GitHub Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=edos08&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="95%" />
 </p>
