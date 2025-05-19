@@ -29,11 +29,11 @@
 </div>
 
 <!--skills icons-->
-<p align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,matlab,bash,html,css,js,wordpress,pytorch,tensorflow,opencv,anaconda,docker,github,git,notion,discord,latex,vscode,pycharm,idea,linux,ubuntu,debian,apple,arduino,raspberrypi,autocad,ps" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,matlab,bash,html,css,js,wordpress,pytorch,tensorflow,opencv,anaconda,docker,github,git,notion,discord,latex,vscode,pycharm,idea,linux,ubuntu,apple,arduino,raspberrypi,autocad,ps" />
   </a>
-</p>
+</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
