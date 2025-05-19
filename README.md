@@ -56,7 +56,7 @@
 
 <!-- GitHub Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=edos08&theme=radical&margin-w=10&margin-h=10&no-bg=true&no-frame=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=edos08&theme=radical&margin-w=10&margin-h=10" width="95%" />
 </p>
 
 <!--h2 without bottom border-->
