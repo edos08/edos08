@@ -31,7 +31,7 @@
 <!--skills icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,matlab,html,css,js,sql,git,vscode,linux,opencv" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,matlab,html,css,js,git,vscode,linux,opencv" />
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,bash,github,autocad" />
   </a>
 </p>
