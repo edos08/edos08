@@ -10,7 +10,7 @@
 
 <!--intro-->
 - 💡 &nbsp;I’m passionate about applying intelligent algorithms to real-world problems — especially at the intersection of control, robotics, and software.  
-- 🎓 &nbsp;M.Sc. student in Control Systems Engineering at the University of Padua, focusing on Deep and Reinforcement Learning for dynamic systems.  
+- 🎓 &nbsp;M.Sc. graduate in Control Systems Engineering at the University of Padua, focusing on Deep and Reinforcement Learning for dynamic systems.  
 - ⚙️ &nbsp;I enjoy building systems — from AI pipelines and embedded control to web platforms and 3D-printed tools.  
 - 🧠 &nbsp;Often starting ambitious projects that merge AI, simulation, and hands-on engineering.  
 - 📄 &nbsp;Check my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf)  
