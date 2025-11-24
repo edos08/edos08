@@ -15,7 +15,7 @@
 - ⚙️ &nbsp;I enjoy building systems — from AI pipelines and embedded control to web platforms and 3D-printed tools.  
 - 🧠 &nbsp;Often starting ambitious projects that merge AI, simulation, and hands-on engineering.  
 - 📄 &nbsp;Check my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf)  
-- ✉️ &nbsp;Email me at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@phd.unipd.it) 
+- ✉️ &nbsp;Email me at [edoardo.scarpel@phd.unipd.it](mailto:edoardo.scarpel@phd.unipd.it) 
 
 <!--snake animation-->
 <div align="center">
