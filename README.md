@@ -43,14 +43,10 @@
 </div>
 
 <!-- GitHub Stats -->
+<!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edos08&theme=dark&show_icons=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=edos08&theme=dark&hide_border=false" width="45%" />
-</p>
-
-<!-- Top Languages -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edos08&theme=dark&layout=compact&hide_border=true&langs_count=8" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=edos08&theme=dark&show_icons=true&count_private=true&hide_border=false" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edos08&theme=dark&layout=compact&hide_border=true&langs_count=8" width="45%" />
 </p>
 
 <!-- GitHub Trophies -->
