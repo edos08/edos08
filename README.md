@@ -9,12 +9,13 @@
 </div>
 
 <!--intro-->
-- 💡 &nbsp;I’m passionate about applying intelligent algorithms to real-world problems — especially at the intersection of control, robotics, and software.  
-- 🎓 &nbsp;M.Sc. graduate in Control Systems Engineering at the University of Padua, focusing on Deep and Reinforcement Learning for dynamic systems.  
+- 💡 &nbsp;I'm passionate about applying intelligent algorithms to real-world problems — especially at the intersection of control, robotics, and software.  
+- 🎓 &nbsp;PhD student in Information Engineering at the University of Padua in collaboration with Statwolf S.r.l., researching Machine Learning for industrial applications (anomaly detection, predictive maintenance, soft sensing) and also exploring Reinforcement Learning.
+- 🔬 &nbsp;Previously earned my M.Sc. in Control Systems Engineering, focusing on Deep and Reinforcement Learning for dynamic systems.  
 - ⚙️ &nbsp;I enjoy building systems — from AI pipelines and embedded control to web platforms and 3D-printed tools.  
 - 🧠 &nbsp;Often starting ambitious projects that merge AI, simulation, and hands-on engineering.  
 - 📄 &nbsp;Check my [Curriculum Vitae](https://github.com/edos08/edos08/blob/main/media/Scarpel_Edoardo_CV.pdf)  
-- ✉️ &nbsp;Email me at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@gmail.com)  
+- ✉️ &nbsp;Email me at [edoardo.scarpel@gmail.com](mailto:edoardo.scarpel@phd.unipd.it) 
 
 <!--snake animation-->
 <div align="center">
@@ -65,7 +66,7 @@
   <a href="https://www.linkedin.com/in/edoardo-scarpel/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:edoardo.scarpel@gmail.com" target="_blank">
+  <a href="mailto:edoardo.scarpel@phd.unipt.it" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://github.com/edos08" target="_blank">
